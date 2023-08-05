@@ -1,3 +1,3 @@
-module go_example
+module github.com/wcxhello2020/go-example
 
-go 1.19
+go 1.20
